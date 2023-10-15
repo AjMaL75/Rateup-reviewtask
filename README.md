@@ -19,8 +19,8 @@ You may also see any lint errors in the console.
 I want to give you some instructions when running this project:
 
 In this project i used frontend as React framework and backend as Node.js with MongoDB database,If you want to run react application you should use the following commmand, before proceeding to run this react application confirm your path has correct like take a folder named reviewappclient from root folder after enter 
-* npm start
-after this the react application will run in the 3000 port
+* 'npm start'
+  after this the react application will run in the 3000 port
 
 when u running node.js server you can use the nodemon index.js command on server folder
 
